@@ -1,6 +1,6 @@
 # Beavers
 
-We are conducting a population viability analysis of orchids **Lepanthes caritensis** in Puerto Rico. 
+We are conducting a population viability analysis of orchids *Lepanthes caritensis* in Puerto Rico. 
 
 ### Prerequisites
 
